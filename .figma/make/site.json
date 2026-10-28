@@ -1,0 +1,11 @@
+{
+  "title": "Power Gym prototype",
+  "description": "A polished, animated website that presents a business or project with intuitive navigation, engaging visuals, and a seamless user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
